@@ -1,4 +1,6 @@
+changed are made
 hello world
+	-------------------------
 second commi
 hello
 file is modified.. t
